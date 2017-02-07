@@ -13,3 +13,11 @@ The Dijkstra implementation is applied to the metro network of Paris, each stati
 
 ###Time Complexity Of Project Metro
 Worst Case Scenario (update in progress)
+
+### Test
+
+Test model :
+
+```bash
+python Project_paris_final.py 
+```
