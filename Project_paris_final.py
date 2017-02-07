@@ -28,7 +28,8 @@ t0 = time()
 
 #Local variable used for project
 '----------------------------------------------------'
-dataset = open("C:\Users\Badr\PycharmProjects\Project_Metro_Paris\metro_paris.txt", "r")
+#must edit the link to your dataset
+dataset = open("/Paris-Metro-Project/Data/metro_paris.txt", "r")
 list_source_destination = []
 list_keys = []
 my_graph = {}
