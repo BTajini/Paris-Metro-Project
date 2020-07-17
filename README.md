@@ -1,20 +1,20 @@
 # Paris-Metro-Project
 
-##Algorithm Paris Metro Lines
+## Algorithm Paris Metro Lines
 
-###Overview
-The study context is the test of different algorithm has been made allowing to seek what is the shortest path between two nodes in a graph. Among the algorithms used during the simulation (Depth First Search, Breadth First Search, Fibonacci, Dijkstra), but we will focus on the Dijkstra algorithm which is used by the OSPF dynamic routing protocol (where each node is A router and each link a link).
+### Overview
+The background of the study is the test of different algorithms for finding the shortest path between two nodes in a graph. Among the algorithms used in the simulation (Depth First Search, Breadth First Search, Fibonacci, Dijkstra), however, we will focus on Dijkstra's algorithm which is used by the OSPF dynamic routing protocol (where each node is A router and each link is a link).
 
-The Dijkstra algorithm allows to assign to each arc of the graph a weight. The shortest path is determined by the weight of the arcs.
+Dijkstra's algorithm assigns a weight to each arc in the graph. The shortest path is defined by the weight of the arcs.
 
-###The objective
+### Main goal:
 
-The Dijkstra implementation is applied to the metro network of Paris, each station being a node and the path between two an arc. The aim is therefore to find the shortest path between two stations.
+Dijkstra's implementation is applied to the subway network of Paris, where each station is a node and the path between two stations is an arc. The purpose is therefore to find the shortest path between two different stations.
 
-###Time Complexity Of Project Metro
+### Time Complexity Of Project Metro:
 Worst Case Scenario (update in progress)
 
-### Test
+### Test:
 
 Test model :
 
